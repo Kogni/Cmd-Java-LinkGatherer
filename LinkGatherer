@@ -1,0 +1,6 @@
+LinkGatherer:
+Googler etter webpages som omhandler det spesifiserte temaet.
+
+Implementerte temaer:
+- Miniatyrer: Veldig effektiv i å finne relaterte webpages, men gir noen urelaterte resultater også.
+- Caboose: Veldig ueffektiv ennå.
